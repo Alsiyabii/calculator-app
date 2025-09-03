@@ -50,7 +50,8 @@ Replace ```PATH_TO_FX``` with your local javaFX SDK path
 
 
 ## Screenshots 📸
-<img src=Images/Demo1.png alt="Demo Image 1" width="275" style="margin-right: 50px;"> <img src=Images/Demo2.png alt="Demo Image 1" width="272"> 
+<img src=Images/Demo1.png alt="Demo Image 1" width="275"> 
+<img src=Images/Demo2.png alt="Demo Image 1" width="272"> 
 
 ## License 📜
 This project is licensed under the [MIT License](LICENSE)
